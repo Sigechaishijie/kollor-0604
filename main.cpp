@@ -1,17 +1,8 @@
-#include <cstdio>
-#include <iostream>
-#include <cstdlib>
-#include <string>
-#pragma GCC optimize(2)
-using namespace std;
+#include "others.hpp"
 
 bool is_start;
 string name;
 
-void optimise() {
-	system("chcp 65001>nul");
-	ios::sync_with_stdio(false);
-}
 void menu_start() {
 	char char_control;
 	cout << "输入 p 以开始游戏：";
