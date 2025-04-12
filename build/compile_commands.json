@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/Work/C++/kollor_0604/build",
+  "command": "\"C:/Program Files/Develop/LLVM/bin/clang++.exe\"   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles/Kollor_0604.dir/main.cpp.obj -c E:/Work/C++/kollor_0604/main.cpp",
+  "file": "E:/Work/C++/kollor_0604/main.cpp",
+  "output": "CMakeFiles/Kollor_0604.dir/main.cpp.obj"
+}
+]
